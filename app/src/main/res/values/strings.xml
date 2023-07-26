@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VottingApplication</string>
+    <string name="todo">TODO</string>
+    <string name="todoo">TODO</string>
+    <string name="todooo">TODO</string>
+    <string name="tod">TODO</string>
+    <string name="vote_for_java">Vote For Java</string>
+</resources>
